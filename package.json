@@ -1,0 +1,12 @@
+{
+  "name": "archivery-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backend for Archivery Organizer on Roblox Studio Lite",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
